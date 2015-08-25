@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/sendanything/ParseUI-Android.png?label=ready&title=Ready)](https://waffle.io/sendanything/ParseUI-Android)
 # ParseUI
 ## Overview
 This project contains the `ParseLoginUI` library for building login and signup flows with the Parse Android SDK.
